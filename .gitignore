@@ -3,3 +3,14 @@ data/raw/
 
 # Ignore processed data
 data/processed/
+
+
+# Ignore Jupyter auto-generated stuff
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Ignore notebook temporary files
+*.ipynb~ 
+*.ipynb_check
+
+**/.ipynb_checkpoints
