@@ -3,6 +3,7 @@ data/raw/
 
 # Ignore processed data
 data/processed/
+models/
 
 
 # Ignore Jupyter auto-generated stuff
